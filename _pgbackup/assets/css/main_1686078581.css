@@ -5,9 +5,8 @@
 a {
     color: var(--color-links);
     text-decoration: none;
-    margin-left: 1px;
-    font-size: 1.2em;
-    font-weight: bolder;
+    margin-left: 22px;
+    font-size: 1em;
 }
 
 a:hover {
